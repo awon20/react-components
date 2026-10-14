@@ -1,0 +1,10 @@
+
+# Local dependencies and credentials
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+npm-debug.log*
+dist/
