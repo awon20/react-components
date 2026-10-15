@@ -1,4 +1,4 @@
-# Security maintenance — 2026-10-14
+# Security maintenance — 2026-10-15
 
 Removed the unintended wepback dependency and declared webpack explicitly. Updated the development server and restricted it to localhost. Dependencies and generated bundles are no longer committed.
 
