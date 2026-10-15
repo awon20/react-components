@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import NameInput from "../formElements/NameInput";
 import TShirtSizeSelect from '../formElements/TShirtSizeSelect';
-import LunchCheckbox from "../formElements/LunchCheckbox";
+import LunchCheckbox from "../formElements/LunchCheckBox";
 
 
 // Immutabiliy 
